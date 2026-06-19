@@ -1,5 +1,4 @@
 
-
 <h1 align="center">Hi 👋, I'm Sanika Pravin Auti</h1>
 <h3 align="center">"Data Analyst | Data Scientist | Turning Data into Decisions" from India</h3>
 <img align="right" alt="image-coding" width="400" src ="https://www.bing.com/th/id/OGC.a6dc26a08bb184c176bd420d149829b5?r=0&o=7&cb=thfvnextfalcon2&pid=1.7&rm=3&rurl=https%3a%2f%2fuser-images.githubusercontent.com%2f125878564%2f258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif&ehk=DyOMscjHSmywq6pkWfiMyvezvHpJIKRH4Pb6gEKDLv4%3d">
